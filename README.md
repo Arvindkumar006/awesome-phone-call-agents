@@ -153,7 +153,7 @@ This project is an awesome list for AI-agent phone-call workflows. Add resources
 
 ### Apps
 
-- [ResolveCall](https://github.com/Arvindkumar006/RESOLVECALL) - Autonomous operational recovery agent that places real-time CALL-E phone calls to negotiate delivery windows, extract structured commitments, and deterministically verify policies when vendor APIs are unavailable.
+- [ResolveCall](https://github.com/Arvindkumar006/RESOLVECALL) - Experimental external CALL-E operational-recovery reference for delivery-window conversations and transcript-derived policy checks; live calling has real side effects, and recovery, production-readiness, and cryptographic guarantees are not independently verified.
 - [Clarity](apps/typescript/clarity/) - Clarifies one ambiguous job-application claim through an adaptive CALL-E phone call, returning transcript-backed facts and unresolved questions, with a no-call replay default. [Demo video](https://www.youtube.com/watch?v=_eHWqBgilrI)
 - [OneReach service follow-up](apps/typescript/onereach-service-followup/) - Turns an authorized CALL-E service appointment conversation into a validated Operations handoff, with a no-call default and standalone public integration example.
 
